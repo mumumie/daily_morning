@@ -25,6 +25,14 @@
 首先，按图搜索，测试号，进来之后微信扫码登录！
 ![cf7dbd4502df44765ed3506f55caea5](https://user-images.githubusercontent.com/9566402/183242272-134e37e7-718d-42dd-9ed7-fca2810e94e6.png)
 
+
+今天天气：{{weather.DATA}}
+当前温度：{{weather.DATA}}
+今天是我们的第{{love_days.DATA}}天
+距离你的生日还有：{{birthday_left.DATA}}天
+{{words.DATA}}
+
+
 按图点击 Use this template，创建到自己的仓库下！
 ![e6581c43572b00b12c1a82ca8d7178b](https://user-images.githubusercontent.com/9566402/183242340-2ef26c63-1ca1-420e-abd4-8672c25d61c9.png)
 
